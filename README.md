@@ -1,8 +1,8 @@
-**CPUT Welcome-Bot Kiosk — Java**
+# CPUT Welcome-Bot Kiosk — Java**
 
 A Java console-based Welcome-Bot kiosk developed for a Cape Peninsula University of Technology (CPUT) Orientation Week scenario. The application simulates a self-service kiosk that collects student information, validates student numbers, generates student identifiers, and displays a confirmation slip for temporary student card processing.
 
-### Features
+# Features
 
 * Collects the student's first name(s), surname, and student number.
 * Validates student numbers using regex and range checking.
@@ -12,7 +12,7 @@ A Java console-based Welcome-Bot kiosk developed for a Cape Peninsula University
 * Uses exception handling to manage invalid numeric input.
 * Demonstrates Java `Scanner`, `StringBuilder`, regex `Pattern` and `Matcher`, methods, loops, and conditional logic.
 
-### Technologies
+# Technologies
 
 * Java
 * Java `Scanner`
